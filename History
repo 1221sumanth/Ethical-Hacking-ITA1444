@@ -1,0 +1,394 @@
+ 1  sudo su
+    2  sudo apt install git
+    3  git clone https://github.com/x3rz/blackeye
+    4  cd blackeye
+    5  ls
+    6  git clone https://github.com/x3rz/blackeye
+    7  git clone https://github.com/M4cs/BlackEye-Python.git
+    8  cd 
+    9  cd balckeye
+   10  cd BlackEye-python
+   11  cd BlackEye
+   12  ls
+   13  cd BlackEye-Python
+   14  ls
+   15  sudo ./BlackEye-Python
+   16  sudo ./sites
+   17  sudo ./BlackEye-Python.sh
+   18  sudo..
+   19  clear
+   20  ls
+   21  git clone https://github.com/thelinuxchoice/shellphish
+   22  ls
+   23  cd thelinuxchoice
+   24  cd shellphish
+   25  git clone https://github.com/whiteeagle0/blackeye
+   26  cd blackeye
+   27  git clone https://github.com/whiteeagle0/blackeye
+   28  ls
+   29  cd BlackEye-Python
+   30  ls
+   31  clear
+   32  git clone https://github.com/thewickedkarma/blackeye-im
+   33  cd blackeye-im
+   34  chmod +X
+   35  chmod +X ./setup.sh
+   36  ./setup.sh
+   37  ./blackeye.sh
+   38  clear
+   39  ngrok help
+   40  sudo apt install ngrok
+   41  cd downloads
+   42  cd Downloads
+   43  ls
+   44  sudo tar xvzf ngrok-v3-stable-linux-amd64.tgz
+   45  ls
+   46  sudo mv ngrok /usr/local/bin/
+   47  ngrok config add-authtoken 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+   48  /home/kali/.config/ngrok/ngrok.yml
+   49  ngrok help
+   50  clear
+   51  ngrok http 80
+   52  tcp 22
+   53  ngrok tcp 22
+   54  clear
+   55  sudo..
+   56  sudo ..
+   57  sudo .
+   58  sudo ..
+   59  home
+   60  clear
+   61  cd home
+   62  cd Home
+   63  ngrok config add-authtoken 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+   64  ./blackeye.sh
+   65  ls
+   66  cd blackeye-im
+   67  ls
+   68  ./blackeye.sh
+   69  # in ngrok.yml\nauthtoken: 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+   70  ngrok help
+   71  sudo apt install ngrok
+   72  ls
+   73  cd blackeye-im
+   74  ls
+   75  cd ngrok-stable-linux-386.zip.1
+   76  ls
+   77  ./blackeye.sh
+   78  ngrok config add-authtoken 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+   79  ./ngrok authtoken ngrok config add-authtoken 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+   80  ./blackeye.sh
+   81  clear
+   82  ./blackeye.sh
+   83  ./ngrok http8080
+   84  ./ngrok http 8080
+   85  ls
+   86  cd blackeye
+   87  ./ngrok http 8080
+   88  ./ngrok http 8080
+   89  ./
+   90  ngrok http 80
+   91  git clone https://github.com/An0nUD4Y/blackeye.git
+   92  cd blackeye
+   93  ls
+   94  nano blackeye.sh
+clear
+sudo ./blackeye,sh
+sudo ./blackeye.sh
+sudo ./blackey.sh
+sudo ./blackeye.sh
+./blackeye.sh
+# in ngrok.yml\nauthtoken: 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+# in ngrok.yml
+ngrok config add-authtoken 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+ls
+cd blackeye-im
+./blackeye.sh
+nano blackeye.sh
+ls
+ngrok help
+ngrok http 80
+./blackeye.sh
+cd blackeye-im
+./blackeye.sh
+nano blackeye.sh
+./blackeye.sh
+clear
+cd desktop
+git clone https://github.com/Ignitetch/AdvPhishing.git
+ls
+cd AdvPhishing
+ls
+bash zphisher.sh
+bash AdvPhishing.sh
+sudo.
+sudo
+git clone https://github.com/htr-tech/zphisher.git
+ls
+cd zphisher
+ls
+chmod +x *
+bash zphisher.sh
+bash aphisher.sh
+bash zphisher.sh
+clear
+bash zphisher.sh
+ls
+cd zphisher
+bash zphisher.sh
+ls
+cd zphisher
+bash zphisher.sh
+ls
+cd blackeye-im
+bash blackeye
+ls
+bash blackeye
+bash blackeye.sh
+ls
+git clone https://github.com/MAS012/Blackeye-V2
+ls
+cd Blackeye-V2
+ls
+bash blackeye.sh
+bash Blackeye.sh
+bash blackeye.sh
+ngrok http 8000
+ls
+cd zphisher
+ls
+bash zphisher.sh
+cd zphisher
+bash zphisher.sh
+ls
+cd zphisher
+bash zphisher.sh
+ls
+cd zphisher
+ls
+bash zphisher.sh
+ls
+cd zphisher
+ls
+bash zphisher.sh
+ls
+cd Nphisher
+ls
+bash Nphisher.sh
+ls
+cd
+ls
+cd zphisher
+ls
+bash zphisher.sh
+cd
+ls
+cd zphisher
+ls
+cd zphisher.sh
+bash zphisher.sh
+ls
+/.zphisher.sh
+./zphisher.sh
+cd
+clear
+git clone https://github.com/htr-tech/zphisher.git
+ls
+cd zphisher
+ls
+bash zphisher.sh
+ls
+date
+exit
+nmap_sS 192.168.1.1
+nmap -sS 192.168.1.1
+TCP syn port scan
+nmap -sT 192.168.1.1
+nmap -sA 192.168.1.1
+nmap -sU 192.168.1.1
+nmap -sT 192.168.1.1
+ls
+cd Downloads
+ls
+Public
+is
+ls
+something
+command
+nmap -sU 192.168.1.1
+nmap -sA 192.168.1.1
+nmap -sT 192.168.1.1
+https
+ftp
+sudo apt-get update
+Usufy.py
+sudo apt install OSRFramework
+sudo apt install usufy.py
+sudo apt install git
+usufy.py -n <celluiod_panda> twitter facebook youtube
+usufy.py -n 
+git clone https://github.com/i3visio/osrframework.git
+ls
+cd osrframework 
+ls
+bash osrframework
+cd osrframework 
+ls
+chmod +x *
+ls
+bash usufy.py
+cd usufy.py
+./usufy.py
+ls
+usufy.py
+cd
+sudo pip3 install osrframework
+sudo pip3 install osrframework --upgrade
+ls
+cd osrframework 
+ls
+cd osrframework 
+ls
+bash usufy.py
+usufy -n i3visio febrezo yrubiosec -p twitter facebook
+ls
+usufy -n
+usufy -n i3visio febrezo yrubiosec -p twitter facebook
+kali
+hystory
+history
+exit
+history
+date
+time
+pwd
+sudo pip3 install osrframework
+ls
+cd osrframework 
+ls
+cd osrframework 
+ls
+searchfy.py -n
+cd
+pip install osrframework_console
+pip install osrframework_console --upgrade
+ls
+cd osrframework 
+ls
+cd
+pip install osrframework --user
+echo $PATH
+export PY_USER_BIN=$(python -c 'import site; print(site.USER_BASE + "/bin")')\nexport PATH=$PY_USER_BIN:$PATH
+pip install virtualenv --user
+virtualenv osrframework-virtualenv
+source osrframework-virtualenv/bin/activate\n(osrframework-virtualenv)$
+osrframework-virtualenv/bin/activate
+chmod +x *
+osrframework-virtualenv/bin/activate
+(osrframework-virtualenv)$\n
+(osrframework-virtualenv)
+(osrframework-virtualenv)$ pip install osrframework\n(osrframework-virtualenv)$ usufy.py -h
+(osrframework-virtualenv) pip install osrframework\n(osrframework-virtualenv) usufy.py -h
+(osrframework-virtualenv) usufy.py -h 
+(osrframework-virtualenv)usufy.py -h 
+ls
+cd osrframework 
+ls
+usufy.py -h \n
+cd
+# usufy.py -n kalilinux\n
+sudo apt install osrframework
+clear
+ls
+cd osrframework-virtualenv 
+ls
+cd bin
+ls
+chmod +x *
+ls
+activate_this.py
+activate_this.py -h
+cd
+pip install osrframework
+usufy.py -n yrublosec febrezo -p twitter facebook github youtube
+ls
+rm osrframework-virtualenv 
+rm -d osrframework-virtualenv 
+cd osrframework-virtualenv 
+ls
+rm bin
+rm pyvenv.cfg
+ls
+cd bin
+ls
+rm -r bin
+rm -r osrframework
+clear
+ls
+cd
+ls
+apt install python3.pip
+chmod +x *
+sudo apt install pyhton3.pip
+clear
+osrf
+# dconf reset -f /
+# dconf reset -f / 
+ls
+# dconf reset -f/
+dconf reset -f/
+ls
+apt intall dconf-cli
+apt install dconf-cli
+ls
+cd Desktop
+ls
+cd tagme
+ls
+chmod +x *
+ls
+i
+cd
+c
+clear
+ls
+git clone https://github.com/i3visio/osrframework.git
+cd osrframework 
+ls
+cat requirements.txt
+setup tools
+set up tools
+pip3 install -r requriments.txt
+chmod +x *
+pip3 install -r requriments.txt
+cd osrframework 
+ls
+chmod +x *
+ls
+ls -al
+domainfy
+domainfy -n sunil
+ls
+alias_generator.py -n sunil
+alias_generator.py -n harsha
+phonefy.py -n harsha
+phonefy.py -n 9949936780
+cd domain
+cd domains 
+ls
+domainfy.py -n sunil
+usufy -n i3visio febrezo yrubiosec -p twitter facebook
+ls
+git clone https://github.com/i3visio/osrframework.git
+ls
+cd Camphish
+cd CamPhish
+ls
+bash camphish.sh
+ngrok config add-authtoken 2Iri4lxjvrSn7C1z2DXjV3Mt3dZ_35MwgZXhskcji4za33ZAB
+cd CamPhish
+bash camphish.sh
+ls
+cd blackeye-im
+ls
+bash blackeye.sh
